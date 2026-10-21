@@ -34,7 +34,7 @@ input::placeholder{
 button{
     height: 45px;
     border-radius: 10px;
-    background-color: rgb(140, 33, 140);
+    background: linear-gradient(107deg, violet, blue);
     border: 1px solid purple;
     color: white;
     font-size: 1.2rem;

@@ -12,15 +12,15 @@ function Footer(){
             </div>
             <div className="footpillar">
                 <h3>Quick Links</h3>
-                <a href="#">Home</a>
-                <a href="#">Loan Products</a>
-                <a href="#">Apply Now</a>
-                <a href="#">About Us</a>
+                <a href="/home">Home</a>
+                <a href="/loan">Loan Products</a>
+                <a href="/apply">Apply Now</a>
+                <a href="/about">About Us</a>
             </div>
             <div className="footpillar">
                 <h3>Support</h3>
-                <a href="#">Contact Us</a>
-                <a href="#">FAQ</a>
+                <a href="/contact">Contact Us</a>
+                <a href="/faq">FAQ</a>
                 <a href="#">Privacy Policy</a>
                 <a href="#">Terms of Service</a>
             </div>

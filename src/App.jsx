@@ -36,7 +36,7 @@ const App = () => {
       {/* <button style={{backgroundColor: "blue", color: "green", width:"200px",height:"20px"}}></button> */}
       {/* <MyButton /> */}
     <Routes>
-      <Route path="/Home" element={<Home />} />
+      <Route path="/home" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/signup" element={<SignUp />} />
       <Route path="/contact" element={<Contact />} />
