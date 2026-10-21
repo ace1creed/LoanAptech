@@ -1,0 +1,68 @@
+.Contact{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    height: 500px;
+    width: 600px;
+    margin-left: 370px;
+    margin-top: 50px;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 1);
+}
+.form{
+    display: flex;
+    background-color: white;
+    width: 40%;
+    flex-direction: column;
+    gap: 10px;
+    margin: 5px auto auto auto;
+}
+.contacth1{
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+    margin-top: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+.contactpuh1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+span{
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+}
+.contactp{
+    text-align: center;
+}
+input{
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px 25px 10px 30px;
+    padding: 10px;
+}
+input::placeholder{
+    color: black;
+}
+.contactinputmessage{
+    width: 90%;
+    height: 110px;
+    margin-left: 30px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding-bottom: 90px;
+}
+.buttoncontact{
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 30px;
+    border: 1px solid blue;
+}

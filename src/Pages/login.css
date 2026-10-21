@@ -1,0 +1,57 @@
+.log {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(43, 43, 195);
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.log h2 {
+    color: white;
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 30%;
+    margin: 10px auto;
+    border-radius: 10px;
+    background-color: rgb(85, 53, 160);
+    padding: 30px 2px 30px 20px;
+    box-shadow: 2px 8px 16px black;
+}
+input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 30px;
+    width: 90%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid  rgb(110, 93, 158);;
+    background-color: rgb(85, 53, 160);
+}
+.but {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(107deg, violet, blue);
+    margin-left: 10px;
+    width: 88%;
+    height: 50px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.chor {
+    display: flex;
+    text-align: center;
+    margin-left: 40px;
+    color: rgb(34, 16, 79);
+    font-size: 16px;
+    text-decoration: none;
+}
