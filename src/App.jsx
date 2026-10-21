@@ -6,8 +6,7 @@ import {Loan} from "./Pages/loan.jsx"
 import {Login} from "./Pages/login.jsx"
 import {Routes, Route} from "react-router-dom";
 import "./App.css"
-import { useState } from "react";
-import {Footer} from "./component/footer.jsx"
+import {Footer} from "./component/Footer.jsx"
 import {Header} from "./component/navBar.jsx"
 // const App = () => {
 //   return (
